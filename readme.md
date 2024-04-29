@@ -11,15 +11,11 @@
 
 Clone Repository:
 
-- $ ``git clone git clone ``
+- $ ``git clone git clone `git@github.com:bharatk100/interview_task.git`
 
 Setup Environment Variables:
 
-- Copy .env file from project and paste it in root folder of repository.
-
-Database Dump
-
- - Import the lastest .sql dump present in project
+- Copy the .env file from the project and paste it into the root folder of the repository.
 
 #### Python
 Create a virtual environment:
